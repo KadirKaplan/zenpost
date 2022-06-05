@@ -1,9 +1,2 @@
 # ZenPOST
-Küçük ve Orta ölçekli firmaların ön muhasebe tarafındaki süreçlerini yönetebilmeleri için geliştirilmiş hibrit bir projedir. Android, IOS ve Web platformlarında çalışabilir.
-Neler Yapılabilir ? 
-*Cari Listeleme
-*Cari Bakiye Listeleme
-*Cari bakiyesini karşı tarafa mail ya da sms yolu ile gönderme
-*Stok takibi
-*Banka  takibi
-*Kasa takibi
+It is a hybrid project developed for small and medium-sized companies to manage their pre-accounting processes. It can run on Android, IOS and Web platforms. What can be done ? *Current Listing *Current Balance Listing *Sending the current balance to the other party via e-mail or sms *Inventory tracking *Bank tracking *Cash tracking
